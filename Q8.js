@@ -11,3 +11,5 @@ class Chameleon {
   
   const freddie = new Chameleon({ newColor: 'purple' });
   console.log(freddie.colorChange('orange'));
+
+ // Answer D: TypeError

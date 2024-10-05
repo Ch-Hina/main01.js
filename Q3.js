@@ -8,3 +8,5 @@ const shape = {
   
   console.log(shape.diameter());
   console.log(shape.perimeter());
+
+ // Answer B: 20 and NaN
